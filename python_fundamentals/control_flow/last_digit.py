@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = __import__('random').randint(-10000, 10000)
 magnitude = abs(number) % 10
 signed_digit = -magnitude if number < 0 else magnitude
