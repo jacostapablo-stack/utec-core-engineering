@@ -18,4 +18,7 @@ Este script recorre los números del 0 al 98 y muestra cada valor en formato dec
 Cada línea presenta el número decimal seguido de su representación hexadecimal con el prefijo `0x`.
 # Two-Digit Numbers
 Este script imprime los números del 0 al 99 con formato de dos dígitos.
-Los valores se separan por coma y espacio, excepto el último número, que termina con un salto de lí.
+Los valores se separan por coma y espacio, excepto el último número, que termina con un salto de nea.
+# Two-Digit Combinations
+Este script imprime todas las combinaciones únicas de dos dígitos diferentes entre 0 y 9.
+Cada combinación mantiene el dígito menor en primer lugar, se separa por coma y espacio, y la última termina con un salto de lí.
