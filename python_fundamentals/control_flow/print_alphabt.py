@@ -6,4 +6,4 @@ for alfabet in range(ord("a"), ord("z") + 1):
         continue
     az += chr(alfabet)
 
-print(az)
+print("{}".format(az))
