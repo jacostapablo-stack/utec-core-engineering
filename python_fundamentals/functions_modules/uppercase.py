@@ -8,4 +8,4 @@ def uppercase(str):
             resultado += chr(ord(min_mayus) - 32)
         else:
             resultado += min_mayus
-    print(resultado)
+    print("{}".format(resultado))
