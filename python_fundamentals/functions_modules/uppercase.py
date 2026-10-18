@@ -2,9 +2,10 @@
 
 
 def uppercase(str):
+    resultado = ""
     for min_mayus in str:
         if 97 <= ord(min_mayus) <= 122:
-            print(chr(ord(min_mayus) - 32), end="")
+            resultado += chr(ord(min_mayus) - 32)
         else:
-            print(min_mayus, end="")
-    print()
+            resultado += min_mayus
+    print(resultado)

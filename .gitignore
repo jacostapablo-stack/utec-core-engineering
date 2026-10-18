@@ -1,1 +1,3 @@
 py38_env/
+.venv/
+.vdnv/
