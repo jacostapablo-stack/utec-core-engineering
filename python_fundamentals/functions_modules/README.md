@@ -38,3 +38,6 @@ Programa que importa cuatro funciones de un módulo de calculadora para realizar
 Utiliza los valores 10 y 5 e imprime el resultado de cada operación en una línea independiente.
 
 Solo se ejecuta cuando se inicia directamente, sin producir resultados al importarlo desde otro programa.
+
+# variable_load.py
+Importa la variable `a` desde `variable_load_5.py` e imprime su valor sin ejecutar el programa al importarse. 
