@@ -20,3 +20,6 @@ La funcion `common_elements` recibe dos conjuntos y devuelve uno nuevo con los e
 
 ### 6. Actualizar o agregar un par clave/valor en un diccionario
 La funcion `update_dictionary.py` actualiza el par clave/valor en un diccionario.
+
+### 7. Mejor Puntuacion
+La funcion `best_score.py` recibe un diccionario y devuelve la clave asociada al valor entero mas alto, si el diccionario esta vacio o es `None`, devuelve `None`.
