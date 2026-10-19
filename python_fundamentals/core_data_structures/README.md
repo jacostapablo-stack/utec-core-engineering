@@ -13,4 +13,7 @@ Función `replace_in_list.py` reemplaza un elemento de una lista según su índi
 `print_matrix_integer.py` imprime una lista de enteros con espacios recorriendo una lista de listas.
 
 ### 4. Adicion de tuplas
-La funcion `add_tuple.py` recibe dos tuplas y devuelve una nueva con la suma de sus dos primeras posiciones. Utiliza 0 para los valores faltantes e ingnora los elementos adicionales.  
+La funcion `add_tuple.py` recibe dos tuplas y devuelve una nueva con la suma de sus dos primeras posiciones. Utiliza 0 para los valores faltantes e ingnora los elementos adicionales.
+
+### 5. Elementos comunes
+La funcion `common_elements` recibe dos conjuntos y devuelve uno nuevo con los elementos comunes en ambos.
