@@ -1,10 +1,13 @@
 ### 0. print_list_integer
-Función que recorre ua lista e imprime cada entero en una línea, utiliando `for` y el formato 
+Función que recorre ua lista e imprime cada entero en una línea, utilizando `for` y el formato `{:d}`. 
 
 ### 1. Acceso seguro a una lista
 
-Función `lement_at.py` devuelve un elemento de una lista según su índice. Utiliza condiciones para validar el rango y devuelve `None` si el índice no es vál
+Función `lement_at.py` devuelve un elemento de una lista según su índice. Utiliza condiciones para validar el rango y devuelve `None` si el índice no es válido.
 
 ### 2. Reemplazar un elemento de una lista
 
-Función `replace_in_list.py reemplaza un elemento de una lista según su índice. Valida que esté dentro del rango permitido y devuelve la lista original sin cambios si el índice no es válido
+Función `replace_in_list.py` reemplaza un elemento de una lista según su índice. Valida que esté dentro del rango permitido y devuelve la lista original sin cambios si el índice no es válido.
+
+### 3. Imprimir una matriz de enteros
+`print_matrix_integer.py` imprime una lista de enteros con espacios recorriendo una lista de listas. 
