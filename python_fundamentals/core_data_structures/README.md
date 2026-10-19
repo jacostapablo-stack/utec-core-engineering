@@ -10,4 +10,7 @@ Función `lement_at.py` devuelve un elemento de una lista según su índice. Uti
 Función `replace_in_list.py` reemplaza un elemento de una lista según su índice. Valida que esté dentro del rango permitido y devuelve la lista original sin cambios si el índice no es válido.
 
 ### 3. Imprimir una matriz de enteros
-`print_matrix_integer.py` imprime una lista de enteros con espacios recorriendo una lista de listas. 
+`print_matrix_integer.py` imprime una lista de enteros con espacios recorriendo una lista de listas.
+
+### 4. Adicion de tuplas
+La funcion `add_tuple.py` recibe dos tuplas y devuelve una nueva con la suma de sus dos primeras posiciones. Utiliza 0 para los valores faltantes e ingnora los elementos adicionales.  
