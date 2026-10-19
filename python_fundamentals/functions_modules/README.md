@@ -23,3 +23,11 @@ Imprime el dígito sin texto adicional ni salto de línea y devuelve su valor co
 Función que recibe dos números, una base y un exponente, y calcula la potencia correspondiente.
 
 Admite exponentes positivos, negativos y cero. Devuelve el resultado sin imprimirlo.
+
+# add
+
+Programa que importa una función de suma desde otro módulo y calcula el resultado de sumar dos números.
+
+Asigna los valores 1 y 2 a dos variables e imprime `1 + 2 = 3`.
+
+Solo imprime el resultado cuando se ejecuta directamente, sin producir salida al importarlo desde otro programa.
