@@ -17,3 +17,6 @@ La funcion `add_tuple.py` recibe dos tuplas y devuelve una nueva con la suma de 
 
 ### 5. Elementos comunes
 La funcion `common_elements` recibe dos conjuntos y devuelve uno nuevo con los elementos comunes en ambos.
+
+### 6. Actualizar o agregar un par clave/valor en un diccionario
+La funcion `update_dictionary.py` actualiza el par clave/valor en un diccionario.
