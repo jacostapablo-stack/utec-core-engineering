@@ -31,3 +31,10 @@ Programa que importa una función de suma desde otro módulo y calcula el result
 Asigna los valores 1 y 2 a dos variables e imprime `1 + 2 = 3`.
 
 Solo imprime el resultado cuando se ejecuta directamente, sin producir salida al importarlo desde otro programa.
+# calculation
+
+Programa que importa cuatro funciones de un módulo de calculadora para realizar operaciones de suma, resta, multiplicación y división.
+
+Utiliza los valores 10 y 5 e imprime el resultado de cada operación en una línea independiente.
+
+Solo se ejecuta cuando se inicia directamente, sin producir resultados al importarlo desde otro programa.
