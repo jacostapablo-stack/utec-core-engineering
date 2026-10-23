@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 
-def safe_print_integer(value):
+def safie_print_integer(value):
     try:
         print("{:d}".format(value))
-    except ValueError:
+    except(ValueError, TypeError):
         return False
 
     return True
