@@ -3,3 +3,5 @@ La funci�n `safe_print_list` imprime hasta `x` elementos en una misma l�nea y de
 ### 1.
  `safe_print_integer(value)`: Imprime un número entero seguido de una nueva línea y devuelve `True`. Si el valor no es compatible con el formato entero, no lo imprime y devuelve alse`. 
 ### 2. safe_print_list_integers(my_list=[], x=0): Recorre los primeros x elementos de una lista, imprime únicamente los enteros en una misma línea, omite los demás tipos de datos y devuelve la cantidaid de enteros impresos.
+
+### 3. `safe_print_division(a, b)`: Divide dos valores, imprime el resultado y lo devuelve. Si ocurre una excepción, imprime y devuelve `None`.
