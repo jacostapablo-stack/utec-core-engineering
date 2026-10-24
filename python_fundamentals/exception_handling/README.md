@@ -6,4 +6,6 @@ La funci胣 `safe_print_list` imprime hasta `x` elementos en una misma l胣ea y de
 
 ### 3. `safe_print_division(a, b)`: Divide dos valores, imprime el resultado y lo devuelve. Si ocurre una excepci贸n, imprime y devuelve `None`
 i.
-### 4. `raise_exception()`: Lanza una excepci贸n `TypeError` con un mensaje que indica que el tipo de dato no es v谩lido.
+### 4. `raise_exception()`: Lanza una excepci贸n `TypeError` con un mensaje que indica que el tipo de dato no es v谩lid
+
+### 5. `raise_exception_msg(message="")`: Lanza una excepci贸n `NameError` con el mensaje recibido. Si no se proporciona un mensaje, lanza la excepci贸n con un mensaje vac铆o.
