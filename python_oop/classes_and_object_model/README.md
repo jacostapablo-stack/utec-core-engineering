@@ -22,4 +22,8 @@
 
 ## 5-square.py
 
-`Square`: Permite imprimir un cuadrado con el carácter `#`, según su tamaño. Si el tamaño es cero, imprime una línea vacía. 
+`Square`: Permite imprimir un cuadrado con el carácter `#`, según su tamaño. Si el tamaño es cero, imprime una línea vacía.
+
+## 6-square.py
+
+`Square`: Permite representar e imprimir un cuadrado según su tamaño y posición, con validación de ambos atributos mediante propiedades y representación de texto con `__str__()`. 
