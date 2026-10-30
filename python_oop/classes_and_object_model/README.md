@@ -18,4 +18,8 @@
 
 ## 4-square.py
 
-`Square`: Permite consultar y modificar el tamaño privado del cuadrado mediante métodos getter y setter, con validación de los valo. 
+`Square`: Permite consultar y modificar el tamaño privado del cuadrado mediante métodos getter y setter, con validación de los valo.
+
+## 5-square.py
+
+`Square`: Permite imprimir un cuadrado con el carácter `#`, según su tamaño. Si el tamaño es cero, imprime una línea vacía. 
