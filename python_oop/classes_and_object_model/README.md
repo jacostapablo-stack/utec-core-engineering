@@ -14,4 +14,8 @@
 
 ## 3-square.py 
 
-`area()`: Calcula y devuelve el área del cuadrado a partir de la longitud de su lado. 
+`area()`: Calcula y devuelve el área del cuadrado a partir de la longitud de su lado
+
+## 4-square.py
+
+`Square`: Permite consultar y modificar el tamaño privado del cuadrado mediante métodos getter y setter, con validación de los valo. 
