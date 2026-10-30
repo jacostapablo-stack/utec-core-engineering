@@ -6,4 +6,8 @@
 
 **1-square.py  
 
-`Square`: Define una clase que representa un cuadrado y permite crear instancias con un tamaño establecido mediante un atributo privado
+`Square`: Define una clase que representa un cuadrado y permite crear instancias con un tamaño establecido mediante un atributo privad.
+
+**2-square.py **
+
+`Square`: Define una clase que permite crear cuadrados con un tamaño entero no negativo, establecido mediante un atributo privado. Lanza `TypeError` o `ValueError` si el tamaño no es váli
