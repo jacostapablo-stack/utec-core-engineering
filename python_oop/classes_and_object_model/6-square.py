@@ -65,4 +65,4 @@ class Square:
 
     def my_print(self):
         """Imprime el cuadrado según su tamaño y posición."""
-    print(self)
+        print(self)
