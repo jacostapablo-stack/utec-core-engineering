@@ -28,4 +28,6 @@
 
 `Square`: Permite representar e imprimir un cuadrado según su tamaño y posición, con validación de ambos atributos mediante propiedades y representación de texto con `__str__()`.
 
-- **`rectangle.py`**: Define una clase `Rectangle` con ancho y alto privados. Permite consultar y modificar sus dimensiones mediante propiedades que validan valores enteros no negativos. Ambos valores son opcionales y tienen `0` por defecto. 
+- **`rectangle.py`**: Define una clase `Rectangle` con ancho y alto privados. Permite consultar y modificar sus dimensiones mediante propiedades que validan valores enteros no negativos. Ambos valores son opcionales y tienen `0` por defecto.
+
+- **`2-rectangle.py`**: Define una clase `Rectangle` con atributos privados de ancho y alto, validados mediante getters y setters. Permite calcular y devolver el área y el perímetro del rectángulo, con perímetro `0` si alguna dimensión es cero. 
