@@ -26,4 +26,6 @@
 
 ## 6-square.py
 
-`Square`: Permite representar e imprimir un cuadrado según su tamaño y posición, con validación de ambos atributos mediante propiedades y representación de texto con `__str__()`. 
+`Square`: Permite representar e imprimir un cuadrado según su tamaño y posición, con validación de ambos atributos mediante propiedades y representación de texto con `__str__()`.
+
+- **`rectangle.py`**: Define una clase `Rectangle` con ancho y alto privados. Permite consultar y modificar sus dimensiones mediante propiedades que validan valores enteros no negativos. Ambos valores son opcionales y tienen `0` por defecto. 
