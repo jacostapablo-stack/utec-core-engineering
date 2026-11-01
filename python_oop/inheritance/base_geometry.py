@@ -8,7 +8,7 @@ class BaseGeometry:
     def area(self):
         """Lanza una excepción porque el cálculo del área
         no está implementado."""
-        raise NotImplementedError
+        raise Exception("area() is not implemented")
 
     def integer_validator(self, name, value):
         """Valida que un valor sea un entero positivo."""
