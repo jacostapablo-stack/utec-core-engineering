@@ -1,3 +1,5 @@
 ### Herencia y polimorfismo
 
 base_geometry.py: Define una clase base para figuras geométricas, con un método de área no implementado y otro que valida enteros positivos, lanzando excepciones cuando corresponde.
+
+- `1-rectangle.py`: Define una clase que hereda de BaseGeometry, valida el ancho y la altura como enteros positivos y los almacena como atributos privados.
