@@ -7,3 +7,5 @@ base_geometry.py: Define una clase base para figuras geométricas, con un métod
 - `2-rectangle.py`: Define un rectángulo que hereda de BaseGeometry, valida sus dimensiones, calcula y devuelve el área y proporciona una representación textual del objeto.
 
 - `1-square.py`: Define un cuadrado que hereda de Rectangle, valida su tamaño como entero positivo, calcula y devuelve su área y reutiliza la representación textual de la clase padre.
+
+- `2-square.py`: Define un cuadrado que hereda de Rectangle, valida su tamaño, calcula y devuelve su área y proporciona una representación textual del objeto.
